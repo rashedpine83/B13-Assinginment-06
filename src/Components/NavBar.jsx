@@ -55,8 +55,6 @@ const NavBar = ({ carts }) => {
             </span>
           )}
         </div>
-
-       
         <a className="font-medium cursor-pointer hidden sm:block">
           Login
         </a>
