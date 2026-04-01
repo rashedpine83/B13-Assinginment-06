@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Starter",
+    "price": "0",
+    "period": "month",
+    "description": "Perfect for getting started",
+    "button": "Get Started Free",
+    "features": [
+      "Access to free tools",
+      "Basic templates",
+      "Community support",
+      "1 project per month"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "popular": "true",
+    "price": "29",
+    "period": "month",
+    "description": "Best for professionals",
+    "button": "Start Pro Trial",
+    "features": [
+      "Access to all premium tools",
+      "Unlimited templates",
+      "Priority support",
+      "Unlimited projects",
+      "Cloud sync",
+      "Advanced analytics"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Enterprise",
+    "price": "99",
+    "period": "month",
+    "description": "For teams and businesses",
+    "button": "Contact Sales",
+    "features": [
+      "Everything in Pro",
+      "Team collaboration",
+      "Custom integrations",
+      "Dedicated support",
+      "SLA guarantee",
+      "Custom branding"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes with modern templates and ATS optimization.",
+    "price": 19,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://i.ibb.co.com/39hbF2zM/Resume-Builder.png"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Maker",
+    "description": "Build stunning personal portfolios with drag-and-drop tools.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Custom domains", "Responsive design", "SEO optimization"],
+    "icon": "https://i.ibb.co.com/TDxYsvm3/portfolio.png"
+  },
+  {
+    "id": 3,
+    "name": "Logo Generator AI",
+    "description": "Generate unique logos instantly using AI technology.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["AI generation", "High-res download", "Editable formats"],
+    "icon": "https://i.ibb.co.com/BX5xxc7/image.png"
+  },
+  {
+    "id": 4,
+    "name": "Invoice Creator",
+    "description": "Create and manage professional invoices easily.",
+    "price": 5,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Auto calculations", "Download PDF", "Client management"],
+    "icon": "https://i.ibb.co.com/hJnBKpc0/image.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Kit",
+    "description": "Design social media posts with ready-made templates.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Instagram templates", "Facebook covers", "Canva export"],
+    "icon": "https://i.ibb.co.com/Y4fnTCHL/social-media.png"
+  },
+  {
+    "id": 6,
+    "name": "Website Builder Lite",
+    "description": "Create simple websites without coding knowledge.",
+    "price": 25,
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Drag & drop", "Free hosting", "SSL included"],
+    "icon": "https://i.ibb.co.com/SXw4CnRL/image.png"
+  },
+  {
+    "id": 7,
+    "name": "Ebook Creator",
+    "description": "Write, design, and publish ebooks effortlessly.",
+    "price": 18,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Templates", "PDF export", "Cover design"],
+    "icon": "https://i.ibb.co.com/qLpF7mpT/image.png"
+  },
+  {
+    "id": 8,
+    "name": "Video Thumbnail Maker",
+    "description": "Create eye-catching thumbnails for YouTube and videos.",
+    "price": 7,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["HD export", "Custom fonts", "Drag & drop"],
+    "icon": "https://i.ibb.co.com/TqP1jSRL/image.png"
+  },
+  {
+    "id": 9,
+    "name": "Email Signature Generator",
+    "description": "Design professional email signatures quickly.",
+    "price": 4,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["HTML export", "Custom links", "Brand colors"],
+    "icon": "https://i.ibb.co.com/Y48rGyFx/image.png"
+  }
+  
+]
