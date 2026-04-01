@@ -8,7 +8,6 @@ const Products = ({card, carts, setCarts}) => {
     const handleBuy = () => {
         setIsBuy(true)
         
-
     const isFound = carts.find(item => item.id === card.id)
     if(isFound){
         toast.error("Item already in Cart")
