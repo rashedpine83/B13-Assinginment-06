@@ -54,7 +54,6 @@ const Products = ({card, carts, setCarts}) => {
                                 </div>
                             </div>
                         </div>
-
         </div>
     );
 };
