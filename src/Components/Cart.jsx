@@ -16,7 +16,6 @@ const Cart = ({carts, setCarts}) => {
          toast.success("Item deleted")
     }
 
-
     return (
         <div>
             <div className='max-w-6xl mx-auto text-2xl font-bold my-4'>
@@ -24,8 +23,7 @@ const Cart = ({carts, setCarts}) => {
             </div>
             <div>
                 
-                {
-                    
+                { 
                     carts.length === 0 
                     ? <div className='mb-5 max-w-6xl mx-auto shadow-[0_4px_20px_rgba(0,0,0,0.25)] rounded-lg'>
                         <div className='flex justify-center'>
