@@ -7,6 +7,7 @@ const Footer = () => {
     return (
         <div className='bg-[#101727] px-8 pt-28  text-white'>
             <div className='max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-10 place-items-center'>
+                
                 <div>
                     <h1 className='text-4xl font-extrabold'>DigiTools</h1>
                     <p className='text-xs mt-5'>Premium digital tools for creators, professionals, and businesses. Work smarter with our suite of powerful tools.</p>
